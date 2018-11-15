@@ -30,6 +30,6 @@ For this project I used:
 
 ### Credits/resources
 For anyone else struggling on this project, I found the following resources to be very helpful:
-https://www.youtube.com/watch?v=lDVaZY0aG2w
-https://www.youtube.com/watch?v=ywdxLNjhBYw&list=PLgOB68PvvmWCGNn8UMTpcfQEiITzxEEA1
-https://www.youtube.com/watch?v=LvQe7xrUh7I
+1. https://www.youtube.com/watch?v=lDVaZY0aG2w
+2. https://www.youtube.com/watch?v=ywdxLNjhBYw&list=PLgOB68PvvmWCGNn8UMTpcfQEiITzxEEA1
+3. https://www.youtube.com/watch?v=LvQe7xrUh7I

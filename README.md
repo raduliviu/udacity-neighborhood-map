@@ -16,10 +16,10 @@ To get up and running, follow these steps:
 4. Run ```yarn start``` to start the server
 
 For production build (and also for the Service Worker to function), instead of point 4 from above, use the following:
-4. Run ```yarn build``` 
-5. Run ```yarn global add serve``` 
-6. Run ```serve -s build```
-7. Access http://localhost:5000/
+1. Run ```yarn build``` 
+2. Run ```yarn global add serve``` 
+3. Run ```serve -s build```
+4. Access http://localhost:5000/
 
 ## Dependencies
 

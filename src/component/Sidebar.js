@@ -1,3 +1,4 @@
+// Walkthrough from Forrest Walker was immensely helpful especially for the Sidebar https://www.youtube.com/watch?v=lDVaZY0aG2w
 import React, {Component} from "react";
 import VenueList from "./VenueList";
 

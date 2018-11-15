@@ -27,3 +27,9 @@ For this project I used:
 1. [React Google Maps](https://github.com/tomchentw/react-google-maps)
 2. [Google Maps API](https://developers.google.com/maps/documentation/javascript/tutorial)
 3. [Foursquare API](https://developer.foursquare.com/)
+
+### Credits/resources
+For anyone else struggling on this project, I found the following resources to be very helpful:
+https://www.youtube.com/watch?v=lDVaZY0aG2w
+https://www.youtube.com/watch?v=ywdxLNjhBYw&list=PLgOB68PvvmWCGNn8UMTpcfQEiITzxEEA1
+https://www.youtube.com/watch?v=LvQe7xrUh7I

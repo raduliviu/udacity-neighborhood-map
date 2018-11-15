@@ -3,6 +3,7 @@ import './App.css';
 import Map from './component/Map';
 import SquareAPI from './API/'
 import SideBar from './component/Sidebar';
+import Header from './component/Header';
 
 class App extends Component {
 
@@ -70,6 +71,7 @@ class App extends Component {
   render() {
     return (
       <div className="App">
+        <Header />
         <SideBar {...this.state} handleListItemClick={this.handleListItemClick}/>
         <Map {...this.state} handleMarkerClick={this.handleMarkerClick} />
       </div>

@@ -6,6 +6,11 @@
   flex-wrap: wrap;
 }
 
+.mapContainer {
+  height: 95%;
+  width: 75%;
+}
+
 .sideBar {
   width: 25%;
 }
@@ -46,4 +51,16 @@ nav {
 nav h1 {
   margin: 0;
   display: inline;
+}
+
+@media only screen and (max-width: 450px) {
+  .sideBar {
+    width: 100%;
+    height: 30%;
+    overflow: scroll;
+  }
+  .mapContainer {
+    width: 100%;
+    height: 70%
+  }
 }

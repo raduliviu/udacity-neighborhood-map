@@ -33,7 +33,8 @@ class Helper {
         return fetch(`${Helper.baseURL()}${endPoint}?${Helper.auth()}&${Helper.urlBuilder(urlPrams)}`,
         requestData
         )
-        .then(res => res.json());
+        .then(res => res.json())
+        .catch(() => {alert('Foursquare had an error, please try reloading the page')});
     }
 }
 export default class SquareAPI {

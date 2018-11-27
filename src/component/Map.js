@@ -49,6 +49,7 @@ export default class Map extends Component {
             loadingElement={<div style={{ height: `100%` }} />}
             containerElement={<div role="application" className="mapContainer"/>}
             mapElement={<div style={{ height: `100%` }} />}
+            onerror={() => {alert('hi')}}
         />)
     }
 }

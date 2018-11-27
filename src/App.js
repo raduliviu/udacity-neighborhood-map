@@ -65,7 +65,8 @@ class App extends Component {
       });
       this.setState({ venues, center, markers });
       console.log(results)
-    });
+    })
+    .catch(() => {alert('Foursquare had an error, please try reloading the page')});
   }
 
   render() {

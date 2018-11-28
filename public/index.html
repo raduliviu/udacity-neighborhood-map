@@ -26,6 +26,15 @@
       You need to enable JavaScript to run this app.
     </noscript>
     <div id="root"></div>
+    <script>
+      /*
+      Error handling for invalid Google Maps API key
+
+      */
+      function gm_authFailure() {
+        alert("Google Maps failed to load, please try again");
+      }
+      </script>
     <!--
       This HTML file is a template.
       If you open it directly in the browser, you will see an empty page.
